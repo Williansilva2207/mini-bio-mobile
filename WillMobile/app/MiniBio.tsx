@@ -17,9 +17,9 @@ export default function MiniBio() {
 const styles = StyleSheet.create({
   container: {
     padding: 20,
-    backgroundColor: '#7caaefff',
     alignItems: 'center',
     justifyContent: 'center',
+    
   },
   name: {
     fontSize: 20,
